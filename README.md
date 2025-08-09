@@ -1,6 +1,6 @@
 # Hi 👋, I’m Onyeka Nwokike
 
-🚀 **Software Developer in the Making | Web Designer | Research Writer | Agricultural & Bioresources Engineer**
+🚀 ** Web Developer | Research Writer | Agricultural & Bioresources Engineer**
 
 I build **clean, responsive, and user-friendly websites** while sharpening my skills in **Python, databases, and modern web technologies**.
 
