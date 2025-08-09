@@ -25,10 +25,10 @@ I build **clean, responsive, and user-friendly websites** while sharpening my sk
 ---
 
 ### 📫 How to Reach Me
-- **Email:** nwokikeonyeka@gmail.com
-- **LinkedIn:** [linkedin.com/in/onyeka-nwokike](https://www.linkedin.com/in/onyeka-nwokike)
-- **Twitter/X:** [@aham_bu_onyeka](https://x.com/aham_bu_onyeka)
-- **Facebook:** [Onyeka Nwokike](https://facebook.com/onyeka.nwokike.3)
+[![Email](https://img.shields.io/badge/Email-nwokikeonyeka@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nwokikeonyeka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-onyeka--nwokike-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onyeka-nwokike)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@aham__bu__onyeka-1DA1F2?style=for-the-badge&logo=x)](https://x.com/aham_bu_onyeka)
+[![Facebook](https://img.shields.io/badge/Facebook-Onyeka%20Nwokike-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/onyeka.nwokike.3)
 
 ---
 
