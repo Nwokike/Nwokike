@@ -4,8 +4,7 @@
 
 I build **clean, responsive, and user-friendly websites** while sharpening my skills in **Python, databases, and modern web technologies**.
 
-💼 **Portfolio:** [https://nwokike.github.io/portfolio/](https://nwokike.github.io/portfolio/)  
-
+💼 **Portfolio:** [![Click to View](https://img.shields.io/badge/Live%20Portfolio-View%20Now-blue?style=for-the-badge&logo=github)](https://nwokike.github.io/portfolio/)
 ---
 
 ### 🔹 About Me
