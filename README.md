@@ -5,7 +5,7 @@
 I build clean, responsive, and user-focused web applications. My goal is to create impactful and sustainable technology by combining my development skills with a data-driven, research-oriented approach from my engineering background.
 
 - 🔭 I’m currently sharpening my software development skills at the **Power Learn Project**.
-- 🌱 My focus is on mastering **Frontend Technologies** and advancing my **Python** skills for backend development.
+- 🌱 My focus is on mastering **AI for Software Engineering** and advancing my **Python** skills.
 - 💡 I have a strong background in **research and technical writing**, allowing me to communicate complex ideas clearly.
 - 💬 Ask me about web development, content strategy, or the intersection of agriculture and technology.
 - 📫 How to reach me: [nwokikeonyeka@gmail.com](mailto:nwokikeonyeka@gmail.com)
