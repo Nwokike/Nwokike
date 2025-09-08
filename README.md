@@ -58,7 +58,7 @@
 
 | Project        | Description                                  | Link |
 |----------------|----------------------------------------------|------|
-| Yieldwise AI   | AI-powered tools for smarter solutions       | [Repo](https://github.com/Nwokike/yieldwise-ai) |
+| Yieldwise AI   | An AI-powered web app that helps African farmers plan farms and diagnose plant diseases       | [Repo](https://github.com/Nwokike/yieldwise-ai) |
 | Portfolio      | My personal portfolio website                | [Repo](https://github.com/Nwokike/portfolio) |
 | Ubuntu Requests| A Python tool that downloads and organizes images from the web safely           | [Repo](https://github.com/Nwokike/Ubuntu_Requests) |
 
