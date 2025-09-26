@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Onyeka Nwokike 👋</h1>
-<p align="center"><b>Software Developer | Research Writer | Agricultural & Bioresources Engineer</b></p>
+<p align="center"><b>Software Developer | Researcher | Agricultural & Bioresources Engineer</b></p>
 
 <p align="center">
   <a href="https://nwokike.github.io/portfolio/">
