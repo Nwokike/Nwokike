@@ -31,9 +31,8 @@
 
 - 🔭 Sharpening my software development skills at **Power Learn Project**.
 - 🌱 Focused on **AI for Software Engineering** and **Python**.
-- 📚 Research & technical writing enthusiast—clear communication is my superpower.
-- 🌾 Passionate about the intersection of agriculture, technology, and sustainable impact.
-- 💬 Ask me about web development, content strategy, or how tech is transforming agriculture!
+- 📚 Researcher
+- 💬 Ask me about python 
 
 ---
 
