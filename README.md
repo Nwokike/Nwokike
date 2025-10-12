@@ -42,7 +42,7 @@
 Comprehensive Django PWA for Nigerian artisans, integrating marketplace, AI-powered academy, blogging, and real-time engagement.  
 > Marketplace, booking, dashboard, verification, certificates, PWA, Google OAuth, multilingual UI.
 
-<br><br>
+<br>
 
 <a href="https://spaninsight.com">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=spaninsight&theme=dark&border_color=808080&bg_color=0d1117"/>
@@ -57,7 +57,7 @@ Comprehensive Django PWA for Nigerian artisans, integrating marketplace, AI-powe
 Full-stack data intelligence and collaboration platform built with Django.  
 > AI form generation, data cleanup, dashboarding, blog publishing, collaboration, PWA, Google OAuth.
 
-<br><br>
+<br>
 
 <a href="https://zelcry.com">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=zelcry&theme=dark&border_color=808080&bg_color=0d1117"/>
@@ -72,7 +72,7 @@ Full-stack data intelligence and collaboration platform built with Django.
 AI-powered cryptocurrency investment platform.  
 > Groq AI, portfolio management, market data, sustainability scores, alerts, PWA, advanced caching.
 
-<br><br>
+<br>
 
 <a href="https://yieldwiseai.com">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=yieldwise-ai&theme=dark&border_color=808080&bg_color=0d1117"/>
@@ -87,7 +87,7 @@ AI-powered cryptocurrency investment platform.
 AI platform for African farmers with intelligent farm planning, plant doctor, reports, and chat system.  
 > Groq Llama, Gemini Flash, Flask, Jinja2, WeasyPrint.
 
-<br><br>
+<br>
 
 <a href="https://asase-app.onrender.com/">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=asase&theme=dark&border_color=808080&bg_color=0d1117"/>
