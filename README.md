@@ -38,9 +38,6 @@
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
-Comprehensive Django PWA for Nigerian artisans, integrating marketplace, AI-powered academy, blogging, and real-time engagement.  
-> Marketplace, booking, dashboard, verification, certificates, PWA, Google OAuth, multilingual UI.
-
 <br>
 
 <a href="https://spaninsight.com">
@@ -52,9 +49,6 @@ Comprehensive Django PWA for Nigerian artisans, integrating marketplace, AI-powe
 <a href="https://github.com/Nwokike/spaninsight">
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
-
-Full-stack data intelligence and collaboration platform built with Django.  
-> AI form generation, data cleanup, dashboarding, blog publishing, collaboration, PWA, Google OAuth.
 
 <br>
 
@@ -68,9 +62,6 @@ Full-stack data intelligence and collaboration platform built with Django.
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
-AI-powered cryptocurrency investment platform.  
-> Groq AI, portfolio management, market data, sustainability scores, alerts, PWA, advanced caching.
-
 <br>
 
 <a href="https://yieldwiseai.com">
@@ -82,9 +73,6 @@ AI-powered cryptocurrency investment platform.
 <a href="https://github.com/Nwokike/yieldwise-ai">
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
-
-AI platform for African farmers with intelligent farm planning, plant doctor, reports, and chat system.  
-> Groq Llama, Gemini Flash, Flask, Jinja2, WeasyPrint.
 
 <br>
 
@@ -98,9 +86,6 @@ AI platform for African farmers with intelligent farm planning, plant doctor, re
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
-Environmental intelligence system for Africa, providing real-time AI-driven risk analysis.  
-> Flood prediction, air quality, land health, caching, PWA, Leaflet maps.
-
 <br>
 
 <a href="https://nigerian-hate-speech-analyzer.streamlit.app/">
@@ -113,8 +98,7 @@ Environmental intelligence system for Africa, providing real-time AI-driven risk
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
-AI tool to analyze topics of harmful online speech in Nigeria, supporting UN SDG 16.  
-> Scikit-learn, NLTK, Streamlit, Pandas, Multi-class Classification.
+<br>
 
 ---
 
@@ -132,15 +116,50 @@ AI tool to analyze topics of harmful online speech in Nigeria, supporting UN SDG
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-808080?logo=google&logoColor=fff&style=for-the-badge"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>Primary Language</strong><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
+      </td>
+      <td align="center" width="33%">
+        <strong>Backend Development</strong><br><br>
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=for-the-badge"/>
+      </td>
+      <td align="center" width="33%">
+        <strong>Frontend & CMS</strong><br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <strong>Databases</strong><br><br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff&style=for-the-badge"/>
+      </td>
+      <td align="center" width="33%">
+        <strong>Data Analysis & Machine Learning</strong><br><br>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge"/>
+      </td>
+      <td align="center" width="33%">
+        <strong>API Integration & Deployment</strong><br><br>
+        <img src="https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
