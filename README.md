@@ -1,4 +1,3 @@
-<!-- Visitor Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nwokike&color=808080&style=for-the-badge" alt="Profile views today"/>
 </p>
@@ -30,13 +29,13 @@
 ### 🔥 Featured Projects
 
 <a href="https://kiri.ng">
-  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=kiri.ng&theme=dark&border_color=808080&bg_color=0d1117"/>
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=kiri.ng&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
 <a href="https://kiri.ng">
   <img src="https://img.shields.io/badge/Live-Kiri.ng-darkgreen?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/kiri.ng">
-  <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
 Comprehensive Django PWA for Nigerian artisans, integrating marketplace, AI-powered academy, blogging, and real-time engagement.  
@@ -45,13 +44,13 @@ Comprehensive Django PWA for Nigerian artisans, integrating marketplace, AI-powe
 <br>
 
 <a href="https://spaninsight.com">
-  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=spaninsight&theme=dark&border_color=808080&bg_color=0d1117"/>
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=spaninsight&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
 <a href="https://spaninsight.com">
   <img src="https://img.shields.io/badge/Live-SpanInsight-blue?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/spaninsight">
-  <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
 Full-stack data intelligence and collaboration platform built with Django.  
@@ -60,13 +59,13 @@ Full-stack data intelligence and collaboration platform built with Django.
 <br>
 
 <a href="https://zelcry.com">
-  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=zelcry&theme=dark&border_color=808080&bg_color=0d1117"/>
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=zelcry&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
 <a href="https://zelcry.com">
   <img src="https://img.shields.io/badge/Live-Zelcry-ffcd00?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/zelcry">
-  <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
 AI-powered cryptocurrency investment platform.  
@@ -75,13 +74,13 @@ AI-powered cryptocurrency investment platform.
 <br>
 
 <a href="https://yieldwiseai.com">
-  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=yieldwise-ai&theme=dark&border_color=808080&bg_color=0d1117"/>
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=yieldwise-ai&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
 <a href="https://yieldwiseai.com">
   <img src="https://img.shields.io/badge/Live-YieldWiseAI-228B22?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/yieldwise-ai">
-  <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
 AI platform for African farmers with intelligent farm planning, plant doctor, reports, and chat system.  
@@ -90,17 +89,32 @@ AI platform for African farmers with intelligent farm planning, plant doctor, re
 <br>
 
 <a href="https://asase-app.onrender.com/">
-  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=asase&theme=dark&border_color=808080&bg_color=0d1117"/>
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=asase&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
 <a href="https://asase-app.onrender.com/">
   <img src="https://img.shields.io/badge/Live-Asase-008080?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/asase">
-  <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
 Environmental intelligence system for Africa, providing real-time AI-driven risk analysis.  
 > Flood prediction, air quality, land health, caching, PWA, Leaflet maps.
+
+<br>
+
+<a href="https://nigerian-hate-speech-analyzer.streamlit.app/">
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=nigerian-hate-speech-analyzer&theme=buefy&border_color=808080&bg_color=ffffff"/>
+</a>
+<a href="https://nigerian-hate-speech-analyzer.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live-Harmful%20Speech%20Analyzer-orange?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Nwokike/nigerian-hate-speech-analyzer">
+  <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
+</a>
+
+AI tool to analyze topics of harmful online speech in Nigeria, supporting UN SDG 16.  
+> Scikit-learn, NLTK, Streamlit, Pandas, Multi-class Classification.
 
 ---
 
@@ -110,7 +124,7 @@ Environmental intelligence system for Africa, providing real-time AI-driven risk
 |----------|--------------|
 | [**Portfolio**](https://github.com/Nwokike/portfolio) | Personal portfolio built with modern web tools, deployed at [nwokike.github.io/portfolio](https://nwokike.github.io/portfolio). |
 | [**kiri-fastapi**](https://github.com/Nwokike/kiri-fastapi) | RESTful API service for Kiri.ng DB, optimized for scalability and deployment. |
-| [**COVID-19-Streamlit-Dashboard**](https://github.com/Nwokike/COVID-19-Streamlit-Dashboard) | Interactive COVID-19 analytics dashboard using Streamlit and public dataset from Kagle. |
+| [**COVID-19-Streamlit-Dashboard**](https://github.com/Nwokike/COVID-19-Streamlit-Dashboard) | Interactive COVID-19 analytics dashboard using Streamlit and public dataset from Kaggle. |
 | [**Ubuntu_Requests**](https://github.com/Nwokike/Ubuntu_Requests) | Lightweight Python tool that fetches any image from the internet and arranges it cleanly |
 
 ---
@@ -134,11 +148,11 @@ Environmental intelligence system for Africa, providing real-time AI-driven risk
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nwokike&show_icons=true&theme=dark&border_color=808080&bg_color=0d1117&title_color=808080&text_color=ffffff" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwokike&layout=compact&theme=dark&border_color=808080&bg_color=0d1117&title_color=808080&text_color=ffffff" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nwokike&show_icons=true&theme=buefy&border_color=808080&bg_color=ffffff&title_color=000000&text_color=000000" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwokike&layout=compact&theme=buefy&border_color=808080&bg_color=ffffff&title_color=000000&text_color=000000" alt="Top Languages"/>
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nwokike&theme=dark&border=808080&background=0d1117&stroke=808080&ring=808080&fire=808080&currStreakLabel=808080" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Nwokike&theme=darkhub&row=1&column=5&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nwokike&theme=buefy-light" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Nwokike&theme=buefy&row=1&column=5&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -157,5 +171,5 @@ Environmental intelligence system for Africa, providing real-time AI-driven risk
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote"/>
 </p>
