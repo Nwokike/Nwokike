@@ -145,11 +145,9 @@
       <td align="center" width="33%">
         <strong>Data Analysis & Machine Learning</strong><br><br>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
       </td>
       <td align="center" width="33%">
         <strong>API Integration & Deployment</strong><br><br>
