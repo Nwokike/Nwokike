@@ -40,10 +40,10 @@
 
 <br>
 
-<a href="https://spaninsight.com">
+<a href="https://spaninsight.onrender.com//">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=spaninsight&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
-<a href="https://spaninsight.com">
+<a href="https://spaninsight.onrender.com/">
   <img src="https://img.shields.io/badge/Live-SpanInsight-blue?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/spaninsight">
@@ -52,10 +52,10 @@
 
 <br>
 
-<a href="https://zelcry.com">
+<a href="https://zelcry.onrender.com/">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=zelcry&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
-<a href="https://zelcry.com">
+<a href="https://zelcry.onrender.com/">
   <img src="https://img.shields.io/badge/Live-Zelcry-ffcd00?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/zelcry">
@@ -64,10 +64,10 @@
 
 <br>
 
-<a href="https://yieldwiseai.com">
+<a href="https://yieldwise-ai.onrender.com/">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=yieldwise-ai&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
-<a href="https://yieldwiseai.com">
+<a href="https://yieldwise-ai.onrender.com/">
   <img src="https://img.shields.io/badge/Live-YieldWiseAI-228B22?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/yieldwise-ai">
