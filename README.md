@@ -125,14 +125,11 @@
       <td align="center" width="33%">
         <strong>Backend Development</strong><br><br>
         <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white&style=for-the-badge"/>
       </td>
       <td align="center" width="33%">
-        <strong>Frontend, Templating & CMS</strong><br><br>
+        <strong>Frontend & CMS</strong><br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge"/>
       </td>
     </tr>
