@@ -2,10 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nwokike&color=808080&style=for-the-badge" alt="Profile views today"/>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/194400238?s=400&u=043383627a2209689c2e6e2204a7d8ee0b4505e5&v=4" width="120" alt="Nwokike Avatar">
-</p>
-
 <h1 align="center">Hi, I'm Onyeka Nwokike 👋</h1>
 <p align="center"><b>Software Developer | Researcher | Agricultural & Bioresources Engineer</b></p>
 
