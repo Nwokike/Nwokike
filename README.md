@@ -36,10 +36,10 @@
 
 <br>
 
-<a href="https://spaninsight.onrender.com//">
+<a href="https://spaninsight.com//">
   <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=spaninsight&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
-<a href="https://spaninsight.onrender.com/">
+<a href="https://spaninsight.com/">
   <img src="https://img.shields.io/badge/Live-SpanInsight-blue?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Nwokike/spaninsight">
