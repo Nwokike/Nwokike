@@ -24,13 +24,13 @@
 
 ### 🔥 Featured Projects
 
-<a href="https://kiri.ng">
-  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=kiri.ng&theme=buefy&border_color=808080&bg_color=ffffff"/>
+<a href="https://kiriong.onrender.com">
+  <img align="right" height="137" src="https://github-readme-stats.vercel.app/api/pin/?username=Nwokike&repo=kiriong&theme=buefy&border_color=808080&bg_color=ffffff"/>
 </a>
-<a href="https://kiri.ng">
+<a href="https://kiriong.onrender.com">
   <img src="https://img.shields.io/badge/Live-Kiri.ng-darkgreen?style=for-the-badge"/>
 </a>
-<a href="https://github.com/Nwokike/kiri.ng">
+<a href="https://github.com/Nwokike/kiriong">
   <img src="https://img.shields.io/badge/Repo-GitHub-gray?style=for-the-badge"/>
 </a>
 
