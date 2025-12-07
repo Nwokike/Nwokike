@@ -1,122 +1,112 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nwokike&color=808080&style=for-the-badge" alt="Profile views"/>
-</p>
+# Hi there, I'm Onyeka Nwokike 👋
 
-<h1 align="center">Hi, I'm Onyeka Nwokike 👋</h1>
-<p align="center">
-  <b>Software Developer | AI Engineer | Researcher | Agricultural & Bioresources Engineer</b>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nwokike&color=0077B5&style=for-the-badge" alt="Profile views today"/>
+</div>
 
-<p align="center">
-  Building intelligent systems for cultural preservation, agricultural impact, and social good.
-</p>
+<div align="center">
+  <b>Software Developer | AI Researcher | Agricultural & Bioresources Engineer</b>
+  <br>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=480&lines=Building+AI+Platforms;Engineering+for+Impact;Research+and+Analysis;Empowering+African+Innovation" alt="Typing SVG"/>
+</div>
 
 <p align="center">
   <a href="https://nwokike.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0077B5?style=for-the-badge&logo=website&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/onyeka-nwokike">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://huggingface.co/nwokikeonyeka">
-    <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
   <a href="mailto:nwokikeonyeka@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-nwokikeonyeka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🔭 Featured Projects
+## 🔥 Featured Projects
 
-Here are some of my primary projects where I am the main contributor and owner.
+I've curated my top projects below. **Live Demos** and **Source Code** are linked for every project.
 
-> **Note on Repository Cards**: The "pinned repo" widgets only work reliably for repositories you own and haven't forked[citation:2][citation:6]. The cards below are for demonstration; replace `YOUR-USERNAME` and `REPO-NAME` with your details.
-
-### 🤖 AI & Machine Learning
-| Project | Live Demo | Repository | Tech Stack | Description |
-|---------|-----------|------------|------------|-------------|
-| **Imara** | [Live](https://project-imara.onrender.com/) | [GitHub](https://github.com/Nwokike/Imara) | `Django` `AI` | A Digital Bodyguard platform to protect against online gender-based violence. |
-| **NewsCheck AI** | [Live](https://newscheck-ai.streamlit.app/) | [GitHub](https://github.com/Nwokike/newscheck-ai) | `Streamlit` `NLP` | Evaluates news credibility using multiple AI models for sentiment and bias analysis. |
-| **Igbo Bilingual Chat** | [Model on HF](https://huggingface.co/nwokikeonyeka/Igbo-Phi3-Bilingual-Chat-v1-merged) | [GitHub](https://github.com/Nwokike/igbo-bilingual-chat) | `PyTorch` `Transformers` | Fine-tuned Phi-3-mini for bilingual Igbo-English conversation and translation. |
-
-### 🌍 Cultural & Social Impact
-| Project | Live Demo | Repository | Tech Stack | Description |
-|---------|-----------|------------|------------|-------------|
-| **Igbo Archives** | [Live](https://igboarchives.com.ng) | [GitHub](https://github.com/Nwokike/igbo-archives-platform) | `Django` `HTMX` `PWA` | A modern platform for preserving and sharing Igbo cultural heritage. |
-| **Kiriong** | [Live](https://kiriong.onrender.com) | [GitHub](https://github.com/Nwokike/kiriong) | `Django` `AI` | Empowers Nigerian artisans with a marketplace and AI-driven learning academy. |
-| **Nigerian Hate Speech Analyzer** | [Live](https://nigerian-hate-speech-analyzer.streamlit.app/) | [GitHub](https://github.com/Nwokike/nigerian-hate-speech-analyzer) | `Streamlit` `Scikit-learn` | AI tool for multi-class text classification of harmful online speech in Nigeria. |
-
-### 🌾 Agricultural Technology
-| Project | Live Demo | Repository | Tech Stack | Description |
-|---------|-----------|------------|------------|-------------|
-| **YieldWise AI** | [Live](https://yieldwise-ai.onrender.com/) | [GitHub](https://github.com/Nwokike/yieldwise-ai) | `Django` `AI` | AI platform for African farmers offering disease diagnosis and farm planning. |
-| **Asase** | [Live](https://asase-app.onrender.com/) | [GitHub](https://github.com/Nwokike/asase) | `Django` | Environmental intelligence platform for flood risk and land health analysis in Africa. |
+| Project | Description | Core Tech | Links |
+| :--- | :--- | :--- | :--- |
+| **Imara** | Digital bodyguard app protecting women from OGBV in messaging apps. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Safety-orange) | [**Live**](https://project-imara.onrender.com/) • [**Repo**](https://github.com/Nwokike/Imara) |
+| **SpanInsight** | Data intelligence platform for collecting forms, analysis, and dashboards. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | [**Live**](https://spaninsight.com/) • [**Repo**](https://github.com/Nwokike/spaninsight) |
+| **Igbo Archives** | Modern PWA for preserving Igbo cultural heritage. | ![HTMX](https://img.shields.io/badge/HTMX-336699?logo=htmx&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-DB-green) | [**Live**](https://igboarchives.com.ng) • [**Repo**](https://github.com/Nwokike/igbo-archives-platform) |
+| **Kiriong** | Marketplace for Nigerian artisans with AI learning academy. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | [**Live**](https://kiriong.onrender.com) • [**Repo**](https://github.com/Nwokike/kiriong) |
+| **Akili** | Learning platform with courses, quizzes, KaTeX support, and AI. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![KaTeX](https://img.shields.io/badge/KaTeX-Math-green) | [**Live**](https://akili-jwe7.onrender.com) • [**Repo**](https://github.com/Nwokike/Akili) |
+| **NewsCheck AI** | NLP tool evaluating news credibility, sentiment, and bias. | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit-Learn-orange) | [**Live**](https://newscheck-ai.streamlit.app/) • [**Repo**](https://github.com/Nwokike/newscheck-ai) |
+| **Asase** | Environmental intelligence: flood risk, air quality, and land health. | ![JavaScript](https://img.shields.io/badge/Geo-Spatial-darkgreen) ![API](https://img.shields.io/badge/Rest-API-black) | [**Live**](https://asase-app.onrender.com/) • [**Repo**](https://github.com/Nwokike/asase) |
+| **Hate Speech Analyzer** | Multi-class AI classifier for harmful online speech topics in Nigeria. | ![NLP](https://img.shields.io/badge/NLP-Processing-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | [**Live**](https://nigerian-hate-speech-analyzer.streamlit.app/) • [**Repo**](https://github.com/Nwokike/nigerian-hate-speech-analyzer) |
+| **YieldWise AI** | AI for African farmers: farm planning and crop diagnosis. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/Agri-Tech-green) | [**Live**](https://yieldwise-ai.onrender.com/) • [**Repo**](https://github.com/Nwokike/yieldwise-ai) |
+| **Zelcry** | AI crypto investment platform with market insights. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Finance](https://img.shields.io/badge/Fin-Tech-gold) | [**Live**](https://zelcry.onrender.com/) • [**Repo**](https://github.com/Nwokike/zelcry) |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💡 Notable Research & Tools
 
-**Primary Languages & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff)
-
-**Frontend & Data Visualization**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)
-
-**AI/ML & Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?logo=huggingface&logoColor=black)
-
-**Deployment & DevOps**
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Igbo Bilingual Chat** | Fine-tuned Phi-3-mini for Igbo-English conversation. | [**Model**](https://huggingface.co/nwokikeonyeka/Igbo-Phi3-Bilingual-Chat-v1-merged) • [**Code**](https://github.com/Nwokike/igbo-bilingual-chat) |
+| **Igbo Translator** | Specialized English-to-Igbo translator (Phi-3-mini). | [**Model**](https://huggingface.co/nwokikeonyeka/igbo-phi3-translator) • [**Code**](https://github.com/Nwokike/igbo-translator-finetune) |
+| **Archives Scrapers** | Engine for scraping/publishing Igbo cultural data to Hugging Face. | [**Code**](https://github.com/Nwokike/igbo-archives-scrapers) |
+| **Kiri FastAPI** | Scalable REST API for Kiri.ng database. | [**Code**](https://github.com/Nwokike/kiri-fastapi) |
 
 ---
 
-## 📊 GitHub Stats
-
-> **Tip**: If stats don't load immediately, wait a moment or refresh. You can also click the links to view them directly.
+## 🛠 Tech Stack
 
 <div align="center">
 
-<!-- Replace 'Nwokike' with your username in the links below -->
-[![Onyeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nwokike&show_icons=true&theme=buefy&hide_title=false&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwokike&layout=compact&theme=buefy&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nwokike&theme=buefy-light&hide_border=true)](https://git.io/streak-stats)
+| **Core** | **Backend** | **Data & AI** | **Deployment** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge) | ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff&style=for-the-badge) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge) | ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff&style=for-the-badge) | ![HF](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) |
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-I'm always open to discussing technology, collaboration on impactful projects, or research opportunities.
+<div align="center">
+  <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=general&theme=default" alt="GitHub Stats"/>
+  <img height="180em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=default" alt="Top Languages"/>
+  <br/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Nwokike&theme=default" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Nwokike&theme=flat&row=1&column=5&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌱 Currently Brewing
+
+* Enhancing Igbo language models for better cultural preservation. 📖
+* Exploring sustainable AI for climate resilience in agriculture. 🌾
+* **Open to collaborations on NLP for low-resource African languages!**
+
+---
 
 <p align="center">
   <a href="mailto:nwokikeonyeka@gmail.com">
     <img src="https://img.shields.io/badge/Email-nwokikeonyeka@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/onyeka-nwokike">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://nwokike.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Full_Portfolio-0077B5?style=for-the-badge&logo=website&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=website&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/onyeka-nwokike">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://huggingface.co/nwokikeonyeka">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
 </p>
 
----
 <p align="center">
-  <i>“The power of technology is not in the code we write, but in the problems we solve with it.”</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote"/>
 </p>
