@@ -72,22 +72,11 @@
 ## 📊 Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nwokike&theme=flat&no-frame=true&margin-w=15" alt="Trophies"/>
-  </a>
-  <br/><br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nwokike&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Nwokike's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nwokike&hide_border=true&theme=default" alt="Streak Stats"/>
-  </a>
+  <img height="160em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=general&theme=github" alt="General Stats"/>
+  <img height="160em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=github" alt="Top Languages"/>
   <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwokike&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-  </a>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=Nwokike&theme=github" alt="Streak"/>
+  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=Nwokike&theme=github&row=1&column=5&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
