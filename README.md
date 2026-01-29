@@ -4,7 +4,7 @@
 
   # Onyeka Nwokike
 
-  **Software Developer | AI Researcher | Agricultural & Bioresources Engineer**
+  **Software Developer | Researcher | Agricultural & Bioresources Engineer**
 
   <br>
 
