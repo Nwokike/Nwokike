@@ -4,7 +4,7 @@
 
   # Onyeka Nwokike
 
-  **Software Developer | Researcher | Agricultural & Bioresources Engineer**
+  **Software Engineer | Researcher | Agricultural & Bioresources Engineer**
 
   <br>
 
@@ -34,15 +34,10 @@
 | Project | Description | Deploy | Code | Stats |
 |:---|:---|:---:|:---:|:---|
 | **[Imara](https://imara.africa/)** | Digital Bodyguard designed to protect women and girls from online gender-based violence (OGBV) within messaging apps. | [![Live](https://img.shields.io/badge/Live-App-800080?style=flat-square)](https://imara.africa/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/Imara) | ![Stars](https://img.shields.io/github/stars/Nwokike/Imara?style=social) |
-| **[SpanInsight](https://spaninsight.com/)** | Data intelligence platform helping businesses and researchers collect forms, analyze data, and build dashboards. | [![Live](https://img.shields.io/badge/Live-App-blue?style=flat-square)](https://spaninsight.com/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/spaninsight) | ![Stars](https://img.shields.io/github/stars/Nwokike/spaninsight?style=social) |
 | **[Igbo Archives](https://igboarchives.com.ng)** | A modern PWA for the Igbo Archives, built with Django, HTMX, and Neon database. | [![Live](https://img.shields.io/badge/Live-App-A52A2A?style=flat-square)](https://igboarchives.com.ng) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/igbo-archives-platform) | ![Stars](https://img.shields.io/github/stars/Nwokike/igbo-archives-platform?style=social) |
 | **[Kiriong](https://kiriong.onrender.com)** | Django-powered platform empowering Nigerian artisans with a marketplace, AI learning academy, and community tools. | [![Live](https://img.shields.io/badge/Live-App-darkgreen?style=flat-square)](https://kiriong.onrender.com) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/kiriong) | ![Stars](https://img.shields.io/github/stars/Nwokike/kiriong?style=social) |
 | **[Akili](https://akili-jwe7.onrender.com)** | Django-based learning platform with courses, quizzes, exams, KaTeX for math formulas, and PWA support. | [![Live](https://img.shields.io/badge/Live-App-4B0082?style=flat-square)](https://akili-jwe7.onrender.com) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/Akili) | ![Stars](https://img.shields.io/github/stars/Nwokike/Akili?style=social) |
 | **[NewsCheck AI](https://newscheck-ai.streamlit.app/)** | Modular NLP project using multiple AI models to evaluate credibility, sentiment, and bias in news content. | [![Live](https://img.shields.io/badge/Live-App-0000FF?style=flat-square)](https://newscheck-ai.streamlit.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/newscheck-ai) | ![Stars](https://img.shields.io/github/stars/Nwokike/newscheck-ai?style=social) |
-| **[Asase](https://asase-app.onrender.com/)** | AI-powered environmental intelligence platform for Africa providing real-time analysis of flood risk, air quality, and land health. | [![Live](https://img.shields.io/badge/Live-App-008080?style=flat-square)](https://asase-app.onrender.com/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/asase) | ![Stars](https://img.shields.io/github/stars/Nwokike/asase?style=social) |
-| **[Harmful Speech](https://nigerian-hate-speech-analyzer.streamlit.app/)** | Multi-class AI classifier detecting topics of harmful online speech in Nigeria. Built with Scikit-learn & Streamlit. | [![Live](https://img.shields.io/badge/Live-App-orange?style=flat-square)](https://nigerian-hate-speech-analyzer.streamlit.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/nigerian-hate-speech-analyzer) | ![Stars](https://img.shields.io/github/stars/Nwokike/nigerian-hate-speech-analyzer?style=social) |
-| **[YieldWise AI](https://yieldwise-ai.onrender.com/)** | AI platform for African farmers providing farm planning, crop disease diagnosis, and business insights. | [![Live](https://img.shields.io/badge/Live-App-228B22?style=flat-square)](https://yieldwise-ai.onrender.com/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/yieldwise-ai) | ![Stars](https://img.shields.io/github/stars/Nwokike/yieldwise-ai?style=social) |
-| **[Zelcry](https://zelcry.onrender.com/)** | AI-powered cryptocurrency investment platform providing real-time market insights and sustainable investing tools. | [![Live](https://img.shields.io/badge/Live-App-ffcd00?style=flat-square)](https://zelcry.onrender.com/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-gray?style=flat-square&logo=github)](https://github.com/Nwokike/zelcry) | ![Stars](https://img.shields.io/github/stars/Nwokike/zelcry?style=social) |
 
 ---
 
@@ -52,7 +47,7 @@
 |:---|:---|:---:|
 | **Igbo Bilingual Chat** | Fine-tuned Phi-3-mini to understand, translate, and converse in Igbo while retaining English capabilities. | [Hugging Face](https://huggingface.co/nwokikeonyeka/Igbo-Phi3-Bilingual-Chat-v1-merged) |
 | **Igbo Translator** | Specialized English-to-Igbo translator fine-tuned from Microsoft's Phi-3-mini. | [Hugging Face](https://huggingface.co/nwokikeonyeka/igbo-phi3-translator) |
-| **Igbo Archives Scrapers** | Modular scraper engine for collecting museum and blog data for the Hugging Face dataset. | [GitHub](https://github.com/Nwokike/igbo-archives-scrapers) |
+| **Museum Scrapers** | A collection of robust, asynchronous Python scripts for scraping and archiving digital museum collections. Features Playwright, IIIF handling, and rich metadata extraction for Digital Humanities research. | [GitHub](https://github.com/Nwokike/museum-scrapers-python) |
 
 ---
 
