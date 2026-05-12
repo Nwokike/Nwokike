@@ -22,6 +22,10 @@
 
 ---
 
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=github" alt="Top Languages"/>
-  
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=general&theme=github" alt="General Stats"/>
+![Nwokike's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&theme=github&chart=bars)
+
+![Nwokike's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=github&chart=donut)
+
+![Nwokike's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=contributions&theme=github)
+
+![Nwokike's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=top-repos&theme=github)
