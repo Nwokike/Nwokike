@@ -22,6 +22,6 @@
 
 ---
 
-<div align="center">
-  <img height="160em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=general&theme=github" alt="General Stats"/>
-  <img height="160em" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=github" alt="Top Languages"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=github" alt="Top Languages"/>
+  
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=general&theme=github" alt="General Stats"/>
