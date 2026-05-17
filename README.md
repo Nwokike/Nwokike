@@ -22,10 +22,10 @@
 
 ---
 
-![Nwokike's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&theme=github&chart=bars)
-
-![Nwokike's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=github&chart=donut)
-
-![Nwokike's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=contributions&theme=github)
-
-![Nwokike's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=top-repos&theme=github)
+<div align="center">
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&theme=default&chart=bars" width="49%" alt="Nwokike's GitHub stats"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=languages&theme=default&chart=donut" width="49%" alt="Nwokike's Language stats"/>
+  <br>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=contributions&theme=default" width="49%" alt="Nwokike's Contribution stats"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nwokike&type=top-repos&theme=default" width="49%" alt="Nwokike's Top Repos"/>
+</div>
